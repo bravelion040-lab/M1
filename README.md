@@ -34,8 +34,7 @@ Write a C program to read A values and check whether  A > 10.
 2. Read the value of A from the user using scanf().
 3. Check whether A > 10 using an if condition.
 4. If true, print “A is greater than 10”.
-5. Otherwise, print “A is not greater than 10”.
-6. End the program.
+5. End the program.
 
 # PROGRAM:
 ~~~
